@@ -12,7 +12,7 @@ I'm on a journey to gradually enhance my skills, aiming to be better than the da
 [![My Skills](https://skillicons.dev/icons?i=js,html,angular,css,php,java)](https://skillicons.dev)
 
 ## About Me ℹ
-I like to experiment a bit, hence the dual boot setup—I currently run Arch Linux and Windows. My preferred IDE is VSCode. I may not be the most active programmer, but I pour my heart into what I do, and I do it with love 💙. Learning on the way.
+I like to experiment a bit, hence the dual boot setup—I currently run Arch Linux and Windows. My preferred IDE is VSCode. I may not be the most active programmer, but I pour my heart into what I do, and I do it with love 💙. Learning on the way.  
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,vscode)](https://skillicons.dev)
 </details>
 <details>
@@ -31,7 +31,7 @@ Mis habilidades son pocas pero he estudiado lo siguiete:
 [![My Skills](https://skillicons.dev/icons?i=js,html,angular,css,php,java)](https://skillicons.dev)
 
 ## A cerca de ℹ
-Experimento un poco asi que tengo un sistema en dual boot, actualmente utilizo Arch y windows, la IDE de mi preferencia es VSCode. Programadora entusiasta no muy activa, pero me esfuerzo en lo que hago y lo hago con amor 💙. Aprendiendo en el camido. 
+Experimento un poco asi que tengo un sistema en dual boot, actualmente utilizo Arch y windows, la IDE de mi preferencia es VSCode. Programadora entusiasta no muy activa, pero me esfuerzo en lo que hago y lo hago con amor 💙. Aprendiendo en el camido.  
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,vscode)](https://skillicons.dev)
 
 <details>
