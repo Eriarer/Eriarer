@@ -1,4 +1,4 @@
-<details>
+<details open>
   <summary>En</summary>
 ## Technology Enthusiast! 🏳️‍⚧️
 Hi there! You can call me Eri~
