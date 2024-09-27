@@ -5,7 +5,7 @@ Hi there! You can call me Eri~
 
 - 🎓 Currently pursuing my degree at university.
 - 👩‍💻 Studying Computer Science.
-- 🤡 Arch Linux user, by the way. 
+- 🐧 Using Linux. 
 
 ### What I Do? 👷‍♀️
 I'm on a journey to gradually enhance my skills, aiming to be better than the day before. I'm particularly passionate about software and development, and, above all, sleeping 😴; but to sleep well, one must give their best during the day! Though my skill set is modest, I've delved into the following areas:  
@@ -22,7 +22,7 @@ Hola! puedes decirme Eri~
 
 - 🎓Studiando en la universidad.
 - 👩‍💻 Estudiando ISC.
-- 🤡 Arch BTW. 
+- 🐧 Usando linux. 
 
 ### ¿Que hago? 👷‍♀
 Busco enriquecer mis habilidades poco a poco, intentando ser mejor que el dia anterior.  
