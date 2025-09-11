@@ -6,6 +6,11 @@
 
 <p align="center"><i>Computer Science Student | Backend & Cloud Enthusiast | Lifelong Learner</i></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erinmel&color=blueviolet&style=flat" alt="Profile Views" height="20px"/>
+  <img src="https://img.shields.io/github/followers/erinmel?label=Followers&style=flat&color=blueviolet" alt="Followers" height="20px"/>
+</p>
+
 ---
 
 ✨ **Technology Enthusiast | Java & Cloud Explorer**  
@@ -68,4 +73,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=erinmel&theme=material-palenight&hide_border=true&background=FFFFFF00" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erinmel&theme=onedark&row=1&column=7" />
+</p>
+
+
+
 
