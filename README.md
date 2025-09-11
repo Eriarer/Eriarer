@@ -31,6 +31,7 @@
     <img src="https://skillicons.dev/icons?i=java,js,html,css,md" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
     <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=git,github" />
     <img src="https://skillicons.dev/icons?i=windows,apple,arch,ubuntu,mint,debian" />
   </a>
 </p>
@@ -41,6 +42,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,kotlin,py,r,ts" />
     <img src="https://skillicons.dev/icons?i=cassandra,firebase,sqlite" />
     <img src="https://skillicons.dev/icons?i=angular,react,vite,bootstrap,tailwind,sass,qt" />
+    <img src="https://skillicons.dev/icons?i=bitbucket,gitlab,githubactions" />
     <img src="https://skillicons.dev/icons?i=bash,powershell" />
     <img src="https://skillicons.dev/icons?i=androidstudio,pycharm,idea,webstorm,vscode,vim,neovim,postman,docker" />
     <img src="https://skillicons.dev/icons?i=aws,gcp" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
