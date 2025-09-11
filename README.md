@@ -57,7 +57,7 @@
     <img src="resources/cert/aws-academy-cloud-foundations.png" width="100px" alt="AWS Academy Cloud Foundations"/>
   </a>
   <a href="https://www.credly.com/badges/4d4cd956-02c9-4b45-be9b-995d85275c6c/public_url">
-    <img src="resources/cert/cisco-networking-basics.png" width="100px" alt="Cisco Networking Basics"/>
+    <img src="resources/cert/cisco-networking-basics.png" width="90px" alt="Cisco Networking Basics"/>
   </a>
 </p>
 
