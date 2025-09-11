@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erinmel&theme=onedark&column=-1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=erinmel&theme=onedark&column=3&row=2&no-frame=true" />
 </p>
 
 
