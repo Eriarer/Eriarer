@@ -1,37 +1,71 @@
-<details open>
-  <summary>En</summary>
-## Technology Enthusiast! 🏳️‍⚧️
-Hi there! You can call me Eri~
+<h2 align="center">👋 Hi there, I'm Erin</h2>
 
-- 🎓 Currently pursuing my degree at university.
-- 👩‍💻 Studying Computer Science.
-- 🐧 Using Linux. 
+<p align="center">
+  <img src="https://octodex.github.com/images/femalecodertocat.png" width="25%" alt="Female Coder Octocat"/>
+</p>
 
-### What I Do? 👷‍♀️
-I'm on a journey to gradually enhance my skills, aiming to be better than the day before. I'm particularly passionate about software and development, and, above all, sleeping 😴; but to sleep well, one must give their best during the day! Though my skill set is modest, I've delved into the following areas:  
-[![My Skills](https://skillicons.dev/icons?i=js,html,angular,css,php,java)](https://skillicons.dev)
+<p align="center"><i>Computer Science Student | Backend & Cloud Enthusiast | Lifelong Learner</i></p>
 
-## About Me ℹ
-I like to experiment a bit, hence the dual boot setup—I currently run Arch Linux and Windows. My preferred IDE is VSCode. I may not be the most active programmer, but I pour my heart into what I do, and I do it with love 💙. Learning on the way.  
-[![My Skills](https://skillicons.dev/icons?i=arch,windows,vscode)](https://skillicons.dev)
-</details>
-<details>
-  <summary>Es</summary>
-  ## Entusiasta de la tecnología! 🏳️‍⚧️
-Hola! puedes decirme Eri~ 
+---
 
-- 🎓Studiando en la universidad.
-- 👩‍💻 Estudiando ISC.
-- 🐧 Usando linux. 
+✨ **Technology Enthusiast | Java & Cloud Explorer**  
 
-### ¿Que hago? 👷‍♀
-Busco enriquecer mis habilidades poco a poco, intentando ser mejor que el dia anterior.  
-Me gusta principalmente el software y el desarrollo y sobre todo, dormir 😴; pero para dormir bien hay que dar lo mejor durante el día!.
-Mis habilidades son pocas pero he estudiado lo siguiete:  
-[![My Skills](https://skillicons.dev/icons?i=js,html,angular,css,php,java)](https://skillicons.dev)
+- 🎓 Currently studying **Computer Science (ISC)** at UAA <img src="resources/uaa-logo.png" alt="UAA Logo" width="20px" align="center"/>  
+- 💧 Fueled by water and curiosity  
+- 💻 Focused on **Java, Spring Boot, and AWS**  
+- 🖥️ Comfortable across **Linux, Windows, and macOS**  
+- 💤 Believer in *“work hard, sleep well”*  
 
-## A cerca de ℹ
-Experimento un poco asi que tengo un sistema en dual boot, actualmente utilizo Arch y windows, la IDE de mi preferencia es VSCode. Programadora entusiasta no muy activa, pero me esfuerzo en lo que hago y lo hago con amor 💙. Aprendiendo en el camido.  
-[![My Skills](https://skillicons.dev/icons?i=arch,windows,vscode)](https://skillicons.dev)
+---
 
-<details>
+<h3 align="center">💻 Tech Stack</h3>
+
+<h4 align="center">Primary / Strong</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,arch,ubuntu,mint,debian" />
+  </a>
+</p>
+
+<h4 align="center">Also Used / Familiar</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,kotlin,py,r,ts" />
+    <img src="https://skillicons.dev/icons?i=cassandra,firebase,sqlite" />
+    <img src="https://skillicons.dev/icons?i=angular,react,vite,bootstrap,tailwind,sass,qt" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,pycharm,idea,webstorm,vscode,vim,neovim,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,oracle" />
+  </a>
+</p>
+
+
+---
+
+<h3 align="center">☁ Certifications & More</h3>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/572f2a85-5af5-494f-af04-4baaa82e858e/public_url">
+    <img src="resources/cert/aws-academy-cloud-foundations.png" width="100px" alt="AWS Academy Cloud Foundations"/>
+  </a>
+  <a href="https://www.credly.com/badges/4d4cd956-02c9-4b45-be9b-995d85275c6c/public_url">
+    <img src="resources/cert/cisco-networking-basics.png" width="100px" alt="Cisco Networking Basics"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=erinmel&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinmel&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=erinmel&theme=material-palenight&hide_border=true&background=FFFFFF00" />
+</p>
+
