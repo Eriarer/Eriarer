@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=angular,react,vite,bootstrap,tailwind,sass,qt" />
     <img src="https://skillicons.dev/icons?i=bash,powershell" />
     <img src="https://skillicons.dev/icons?i=androidstudio,pycharm,idea,webstorm,vscode,vim,neovim,postman,docker" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,oracle" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
 </p>
 
