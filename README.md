@@ -58,6 +58,9 @@
   <a href="https://www.credly.com/badges/572f2a85-5af5-494f-af04-4baaa82e858e/public_url">
     <img src="resources/cert/aws-academy-cloud-foundations.png" width="100px" alt="AWS Academy Cloud Foundations"/>
   </a>
+  <a href="https://www.credly.com/badges/c062e14a-a514-42fc-9d3f-b161272812f9/public_url">
+    <img src="resources/cert/aws-academy-cloud--security-foundations.png" width="100px" alt="AWS Academy Cloud Security Foundations"/>
+  </a>
   <a href="https://www.credly.com/badges/4d4cd956-02c9-4b45-be9b-995d85275c6c/public_url">
     <img src="resources/cert/cisco-networking-basics.png" width="90px" alt="Cisco Networking Basics"/>
   </a>
