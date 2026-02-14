@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Erin</h2>
+<h2 align="center"> Hi there, I'm Erin</h2>
 
 <p align="center">
   <img src="https://octodex.github.com/images/femalecodertocat.png" width="25%" alt="Female Coder Octocat"/>
@@ -15,11 +15,11 @@
 
 ✨ **Technology Enthusiast | Java & Cloud Explorer**  
 
-- 🎓 Currently studying **Computer Science (ISC)** at UAA <img src="resources/uaa-logo.png" alt="UAA Logo" width="20px" align="center"/>  
-- 💧 Fueled by water and curiosity  
-- 💻 Focused on **Java, Spring Boot, and AWS**  
-- 🖥️ Comfortable across **Linux, Windows, and macOS**  
-- 💤 Believer in *“work hard, sleep well”*  
+- Graduate from **Computer Science (ISC)** at UAA <img src="resources/uaa-logo.png" alt="UAA Logo" width="20px" align="center"/>  
+- Fueled by water and curiosity  
+- Focused on **Java, Spring Boot, and AWS**  
+- Comfortable across **Linux, Windows, and macOS**  
+- Believer in *“work hard, sleep well”*  
 
 ---
 
@@ -68,21 +68,10 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=erinmel&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erinmel&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000&langs_count=6" />
-</p>
+<h3 align="center"> GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=erinmel&theme=material-palenight&hide_border=true&background=FFFFFF00" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erinmel&theme=onedark&column=3&row=2&no-frame=true" />
-</p>
-
-
 
 
