@@ -28,7 +28,7 @@
 <h4 align="center">Primary / Strong</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=java,md" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
     <img src="https://skillicons.dev/icons?i=spring" />
     <img src="https://skillicons.dev/icons?i=git,github" />
@@ -39,7 +39,7 @@
 <h4 align="center">Also Used / Familiar</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,php,kotlin,py,r,ts" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,cs,php,py" />
     <img src="https://skillicons.dev/icons?i=cassandra,firebase,sqlite" />
     <img src="https://skillicons.dev/icons?i=angular,react,vite,bootstrap,tailwind,sass,qt" />
     <img src="https://skillicons.dev/icons?i=bitbucket,gitlab,githubactions" />
@@ -65,13 +65,3 @@
     <img src="resources/cert/cisco-networking-basics.png" width="90px" alt="Cisco Networking Basics"/>
   </a>
 </p>
-
----
-
-<h3 align="center"> GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=erinmel&theme=material-palenight&hide_border=true&background=FFFFFF00" />
-</p>
-
-
